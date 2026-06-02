@@ -1,2 +1,3 @@
-# beecrowd-exercises
-Collection of Beecrowd problem solutions implemented in Java, organized by problem category for practicing programming logic, algorithms, and data structures.
+# Beecrowd Exercises - Java
+
+A collection of Java solutions for problems from the Beecrowd Online Judge platform.
