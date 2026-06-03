@@ -1,4 +1,4 @@
-# Beeccrowd Exercises
+# Beecrowd Exercises
 
 | Problem | Solution |
 |----------|----------|
