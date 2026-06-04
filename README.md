@@ -11,6 +11,16 @@ Repository containing Java solutions for the Beecrowd Beginner track.
 
 - [Exercise Index](../docs/JAVA_BEECROWD_INDEX.md)
 
+## File Naming Convention
+
+Files follow this pattern:
+
+- File name: `ID_ProblemName.java` (e.g., `1002_AreaOfCircle.java`)
+- Main class: `Main`
+
+This convention helps identify problems easily and ensures compatibility with online judge platforms.
+
 ## Objective
 
 Practice Java programming through the 122 basic exercises from the Beecrowd Beginner category.
+
