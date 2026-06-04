@@ -2,10 +2,8 @@ package mathematics;
 
 import java.util.Scanner;
 
-public class AverageII {
-    
+public class AverageII {    
     public static void main(String[] args) {
-        
         Scanner sc = new Scanner(System.in);
 
         Double A = sc.nextDouble();
