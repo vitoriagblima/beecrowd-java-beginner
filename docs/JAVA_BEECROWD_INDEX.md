@@ -1,6 +1,6 @@
 # BeeCrowd Exercises
 
-## Mathematics
+## Beginner
 
 | Problem | Status | Solution |
 |----------|--------|----------|
