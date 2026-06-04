@@ -1,16 +1,11 @@
 # Beecrowd Beginner Exercises - Java
 
-![Java](https://img.shields.io/badge/Java-17+-orange)
-![Beecrowd](https://img.shields.io/badge/Beecrowd-Beginner-blue)
+![Progress](https://img.shields.io/badge/Progress-11%2F122-green)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-success)
+![Beecrowd](https://img.shields.io/badge/Beecrowd-Beginner-blue)
+![Java](https://img.shields.io/badge/Java-17+-orange)
 
 Repository containing Java solutions for the Beecrowd Beginner track.
-
-## Progress
-
-| Solved | Total | Completion |
-|---------|--------|------------|
-| 11 | 122 | 9% |
 
 ## Resources
 
