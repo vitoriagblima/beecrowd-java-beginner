@@ -12,6 +12,6 @@
 | [1006 - Average II](https://judge.beecrowd.com/en/problems/view/1006) | ✔ Solved | [Java](../src/mathematics/AverageII.java) |
 | [1007 - Difference](https://judge.beecrowd.com/en/problems/view/1007) | ✔ Solved | [Java](../src/mathematics/Difference.java) |
 | [1008 - Salary](https://judge.beecrowd.com/en/problems/view/1008) | ✔ Solved | [Java](../src/mathematics/Salary.java) |
+| [1009 - Salary with Bonus](https://judge.beecrowd.com/en/problems/view/1009) | ✔ Solved | [Java](../src/mathematics/SalaryWithBonus.java) |
 | [1010 - Simple Calculate](https://judge.beecrowd.com/en/problems/view/1010) | ✔ Solved | [Java](../src/mathematics/SimpleCalculate.java) |
 | [1012 - Area](https://judge.beecrowd.com/en/problems/view/1012) | ✔ Solved | [Java](../src/mathematics/Area.java) |
-
