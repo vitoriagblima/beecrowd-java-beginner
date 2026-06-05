@@ -1,6 +1,6 @@
 # Beecrowd Beginner Exercises - Java
 
-![Progress](https://img.shields.io/badge/Progress-15%2F122-green)
+![Progress](https://img.shields.io/badge/Progress-16%2F122-green)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-success)
 ![Beecrowd](https://img.shields.io/badge/Beecrowd-Beginner-blue)
 ![Java](https://img.shields.io/badge/Java-17+-orange)
