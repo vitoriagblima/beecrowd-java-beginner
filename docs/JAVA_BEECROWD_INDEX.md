@@ -4,7 +4,7 @@
 
 | Problem | Status | Solution |
 |----------|--------|----------|
-| [1000] - Hello World](https://judge.beecrowd.com/en/problems/view/1000) | ✔ Solved | [Java](../src/beginner/P1000_HelloWorld.java)
+| [1000 - Hello World](https://judge.beecrowd.com/en/problems/view/1000) | ✔ Solved | [Java](../src/beginner/P1000_HelloWorld.java)|
 | [1001 - Sum of Two Numbers](https://judge.beecrowd.com/en/problems/view/1001) | ✔ Solved | [Java](../src/beginner/P1001_SumTwoNumbers.java) |
 | [1002 - Area of a Circle](https://judge.beecrowd.com/en/problems/view/1002) | ✔ Solved | [Java](../src/beginner/P1002_AreaOfCircle.java) |
 | [1003 - Simple Sum](https://judge.beecrowd.com/en/problems/view/1003) | ✔ Solved | [Java](../src/beginner/P1003_SimpleSum.java) |
