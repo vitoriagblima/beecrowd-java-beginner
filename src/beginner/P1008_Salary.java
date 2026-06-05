@@ -3,7 +3,7 @@ package beginner;
 import java.math.BigDecimal;
 import java.util.Scanner;
 
-public class Main {
+public class P1008_Salary {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
