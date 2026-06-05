@@ -18,3 +18,7 @@
 | [1012 - Area](https://judge.beecrowd.com/en/problems/view/1012) | ✔ Solved | [Java](../src/beginner/P1012_Area.java) |
 | [1011 - Sphere](https://judge.beecrowd.com/en/problems/view/1011) | ✔ Solved | [Java](../src/beginner/P1011_Sphere.java) |
 | [1012 - Area](https://judge.beecrowd.com/en/problems/view/1012) | ✔ Solved | [Java](../src/beginner/P1012_Area.java) |
+<<<<<<< HEAD
+=======
+| [1013 - The Greatest](https://judge.beecrowd.com/en/problems/view/1013) | ✔ Solved | [Java](../src/beginner/P1013_TheGreatest.java)
+>>>>>>> c9fc7a5 (feat: implement Beecrowd exercise 1013 solution)
