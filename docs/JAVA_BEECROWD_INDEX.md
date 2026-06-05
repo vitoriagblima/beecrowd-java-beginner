@@ -20,3 +20,4 @@
 | [1012 - Area](https://judge.beecrowd.com/en/problems/view/1012) | ✔ Solved | [Java](../src/beginner/P1012_Area.java) |
 | [1013 - The Greatest](https://judge.beecrowd.com/en/problems/view/1013) | ✔ Solved | [Java](../src/beginner/P1013_TheGreatest.java) |
 | [1014 - Consumption](https://judge.beecrowd.com/en/problems/view/1014) | ✔ Solved | [Java](../src/beginner/P1014_Consumption.java) |
+| [1015 - Distance Between Two Points](https://judge.beecrowd.com/en/problems/view/1015) | ✔ Solved | [Java](../src/beginner/P1015_DistanceBetweenTwoPoints.java) |
