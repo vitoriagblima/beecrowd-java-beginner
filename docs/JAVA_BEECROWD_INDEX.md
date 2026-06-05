@@ -22,3 +22,4 @@
 | [1014 - Consumption](https://judge.beecrowd.com/en/problems/view/1014) | ✔ Solved | [Java](../src/beginner/P1014_Consumption.java) |
 | [1015 - Distance Between Two Points](https://judge.beecrowd.com/en/problems/view/1015) | ✔ Solved | [Java](../src/beginner/P1015_DistanceBetweenTwoPoints.java) |
 | [1016 - Distance](https://judge.beecrowd.com/en/problems/view/1016) | ✔ Solved | [Java](../src/beginner/P1016_Distance.java) |
+| [1017 - Fuel Spent](https://judge.beecrowd.com/en/problems/view/1017) | ✔ Solved | [Java](../src/beginner/P1017_FuelSpent.java) |
