@@ -15,9 +15,6 @@
 | [1008 - Salary](https://judge.beecrowd.com/en/problems/view/1008) | ✔ Solved | [Java](../src/beginner/P1008_Salary.java) |
 | [1009 - Salary with Bonus](https://judge.beecrowd.com/en/problems/view/1009) | ✔ Solved | [Java](../src/beginner/P1009_SalaryWithBonus.java) |
 | [1010 - Simple Calculate](https://judge.beecrowd.com/en/problems/view/1010) | ✔ Solved | [Java](../src/beginner/P1010_SimpleCalculate.java) |
-<<<<<<< HEAD
 | [1012 - Area](https://judge.beecrowd.com/en/problems/view/1012) | ✔ Solved | [Java](../src/beginner/P1012_Area.java) |
-=======
 | [1011 - Sphere](https://judge.beecrowd.com/en/problems/view/1011) | ✔ Solved | [Java](../src/beginner/P1011_Sphere.java) |
 | [1012 - Area](https://judge.beecrowd.com/en/problems/view/1012) | ✔ Solved | [Java](../src/beginner/P1012_Area.java) |
->>>>>>> 4902da4 (feat: add one more exercise solution)
