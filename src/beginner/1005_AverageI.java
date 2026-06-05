@@ -2,7 +2,7 @@ package beginner;
 
 import java.util.Scanner;
 
-public class AverageI {
+public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

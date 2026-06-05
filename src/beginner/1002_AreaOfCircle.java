@@ -2,16 +2,16 @@ package beginner;
 
 import java.util.Scanner;
 
-public class SimpleSum {
+public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        int A = sc.nextInt();
-        int B = sc.nextInt();
-        int SOMA = A + B;
+        Double R = sc.nextDouble();
+        Double A = 3.14159 * Math.pow(R, 2);
 
-        System.out.println("SOMA = " + SOMA);
+        System.out.printf("A=%.4f\n", A);
 
         sc.close();
+
     }
 }

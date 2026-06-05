@@ -2,18 +2,15 @@ package beginner;
 
 import java.util.Scanner;
 
-public class SimpleProduct {
-
+public class Main {
     public static void main(String[] args) {
-        
         Scanner sc = new Scanner(System.in);
 
         int A = sc.nextInt();
         int B = sc.nextInt();
+        int SOMA = A + B;
 
-        int PROD = A * B;
-
-        System.out.println("PROD = " + PROD);
+        System.out.println("SOMA = " + SOMA);
 
         sc.close();
     }
