@@ -30,3 +30,4 @@
 | [1035 - Selection Test 1](https://judge.beecrowd.com/en/problems/view/1035) | ✔ Solved | [Java](../src/beginner/P1035_SelectionTesteI.java) | 
 | [1036 - Bhaskara's Formula](https://judge.beecrowd.com/en/problems/view/1036) | ✔ Solved | [Java](../src/beginner/P1036_BhaskaraFormula.java) |
 | [1037 - Interval](https://judge.beecrowd.com/en/problems/view/1037) | ✔ Solved | [Java](../src/beginner/P1037_Interval.java) |
+| [1038 - Snack](https://judge.beecrowd.com/en/problems/view/1038) | ✔ Solved | [Java](../src/beginner/P1038_Snack.java) |
