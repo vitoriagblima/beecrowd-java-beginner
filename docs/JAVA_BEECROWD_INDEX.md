@@ -23,3 +23,4 @@
 | [1015 - Distance Between Two Points](https://judge.beecrowd.com/en/problems/view/1015) | ✔ Solved | [Java](../src/beginner/P1015_DistanceBetweenTwoPoints.java) |
 | [1016 - Distance](https://judge.beecrowd.com/en/problems/view/1016) | ✔ Solved | [Java](../src/beginner/P1016_Distance.java) |
 | [1017 - Fuel Spent](https://judge.beecrowd.com/en/problems/view/1017) | ✔ Solved | [Java](../src/beginner/P1017_FuelSpent.java) |
+| [1018 - Banknotes](https://judge.beecrowd.com/en/problems/view/1018) | ✔ Solved | [Java](../src/beginner/P1018_Banknotes.java) |
