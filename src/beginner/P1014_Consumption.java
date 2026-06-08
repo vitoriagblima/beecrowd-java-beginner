@@ -7,9 +7,9 @@ public class P1014_Consumption {
         Scanner sc = new Scanner(System.in);
 
         int X = sc.nextInt();
-        Double Y = sc.nextDouble();
+        double Y = sc.nextDouble();
 
-        Double total = X / Y;
+        double total = X / Y;
 
         System.out.printf("%.3f km/l\n", total);
 

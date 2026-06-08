@@ -6,15 +6,15 @@ public class P1012_Area {
     public static void main(String[] args) {   
         Scanner sc = new Scanner(System.in);
 
-        Double A = sc.nextDouble();
-        Double B = sc.nextDouble(); 
-        Double C = sc.nextDouble();
+        double A = sc.nextDouble();
+        double B = sc.nextDouble(); 
+        double C = sc.nextDouble();
 
-        Double areaTriangulo = (A * C) / 2; 
-        Double areaCirculo = 3.14159 * Math.pow(C, 2); 
-        Double areaTrapezio = ((A + B) * C) / 2;
-        Double areaQuadrado = Math.pow(B, 2);
-        Double areaRetangulo = A * B;
+        double areaTriangulo = (A * C) / 2; 
+        double areaCirculo = 3.14159 * Math.pow(C, 2); 
+        double areaTrapezio = ((A + B) * C) / 2;
+        double areaQuadrado = Math.pow(B, 2);
+        double areaRetangulo = A * B;
 
         System.out.printf("TRIANGULO: %.3f%n", areaTriangulo);
         System.out.printf("CIRCULO: %.3f%n", areaCirculo);
