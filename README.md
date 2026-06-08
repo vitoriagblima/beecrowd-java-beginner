@@ -3,7 +3,7 @@
 ![Progress](https://img.shields.io/badge/Progress-learning-blue)
 ![Status](https://img.shields.io/badge/Status-active-success)
 ![Beecrowd](https://img.shields.io/badge/Platform-beecrowd-orange)
-![Java](https://img.shields.io/badge/Java-8%2B-red)
+![Java](https://img.shields.io/badge/Java-5%2B-red)
 
 Repository containing Java solutions for the Beecrowd Beginner track.
 
