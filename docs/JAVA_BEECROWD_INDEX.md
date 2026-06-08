@@ -28,3 +28,4 @@
 | [1020 - Age in Days](https://judge.beecrowd.com/en/problems/view/1020) | ✔ Solved | [Java](../src/beginner/P1020_AgeInDays.java) |
 | [1021 - Banknotes and Coins](https://judge.beecrowd.com/en/problems/view/1021) | ✔ Solved | [Java](../src/beginner/P1021_BanknotesCoins.java) |
 | [1035 - Selection Test 1](https://judge.beecrowd.com/en/problems/view/1035) | ✔ Solved | [Java](../src/beginner/P1035_SelectionTesteI.java) | 
+| [1036 - Bhaskara's Formula](https://judge.beecrowd.com/en/problems/view/1036) | ✔ Solved | [Java](../src/beginner/P1036_BhaskaraFormula.java) |
