@@ -1,44 +1,29 @@
 package beginner;
 
 import java.util.Scanner;
+import java.util.Locale;
 
 public class P1018_Banknotes {
-
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
+        Locale.setDefault(new Locale("pt", "BR"));
 
-        int valor = sc.nextInt();
-        int n = valor;
+        int value = sc.nextInt();
+        int original = value;
 
-        int nota100 = n / 100;
-        n %= 100;
+        int[] notes = {100, 50, 20, 10, 5, 2, 1};
 
-        int nota50 = n / 50;
-        n %= 50;
+        System.out.println(original);
 
-        int nota20 = n / 20;
-        n %= 20;
+        for (int i = 0; i < notes.length; i++) {
 
-        int nota10 = n / 10;
-        n %= 10;
+            int quantity = value / notes[i];
+            value = value % notes[i];
 
-        int nota5 = n / 5;
-        n %= 5;
-
-        int nota2 = n / 2;
-        n %= 2;
-
-        int nota1 = n;
-
-        System.out.println(valor);
-        System.out.printf("%d nota(s) de R$ 100,00%n", nota100);
-        System.out.printf("%d nota(s) de R$ 50,00%n", nota50);
-        System.out.printf("%d nota(s) de R$ 20,00%n", nota20);
-        System.out.printf("%d nota(s) de R$ 10,00%n", nota10);
-        System.out.printf("%d nota(s) de R$ 5,00%n", nota5);
-        System.out.printf("%d nota(s) de R$ 2,00%n", nota2);
-        System.out.printf("%d nota(s) de R$ 1,00%n", nota1);
+            System.out.printf("%d nota(s) de R$ %.2f%n",
+                    quantity, notes[i] * 1.0);
+        }
 
         sc.close();
     }
