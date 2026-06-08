@@ -25,3 +25,4 @@
 | [1017 - Fuel Spent](https://judge.beecrowd.com/en/problems/view/1017) | ✔ Solved | [Java](../src/beginner/P1017_FuelSpent.java) |
 | [1018 - Banknotes](https://judge.beecrowd.com/en/problems/view/1018) | ✔ Solved | [Java](../src/beginner/P1018_Banknotes.java) |
 | [1019 - Time Conversion](https://judge.beecrowd.com/en/problems/view/1019) | ✔ Solved | [Java](../src/beginner/P1019_TimeConversion.java) |
+| [1020 - Age in Days](https://judge.beecrowd.com/en/problems/view/1020) | ✔ Solved | [Java](../src/beginner/P1020_AgeInDays.java) |
