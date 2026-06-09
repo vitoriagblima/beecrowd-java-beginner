@@ -32,3 +32,4 @@
 | [1037 - Interval](https://judge.beecrowd.com/en/problems/view/1037) | ✔ Solved | [Java](../src/beginner/P1037_Interval.java) |
 | [1038 - Snack](https://judge.beecrowd.com/en/problems/view/1038) | ✔ Solved | [Java](../src/beginner/P1038_Snack.java) |
 | [1040 - Average 3](https://judge.beecrowd.com/en/problems/view/1040) | ✔ Solved | [Java](../src/beginner/P1040_AverageIII.java) |
+| [1041 - Coordinates of a Point](https://judge.beecrowd.com/en/problems/view/1041) | ✔ Solved | [Java](../src/beginner/P1041_CoordinatesPoint.java) |
