@@ -35,3 +35,4 @@
 | [1041 - Coordinates of a Point](https://judge.beecrowd.com/en/problems/view/1041) | ✔ Solved | [Java](../src/beginner/P1041_CoordinatesPoint.java) |
 | [1042 - Simple Sort](https://judge.beecrowd.com/en/problems/view/1042) | ✔ Solved | [Java](../src/beginner/P1042_SimpleSort.java) |
 | [1043 - Triangle](https://judge.beecrowd.com/en/problems/view/1043) | ✔ Solved | [Java](../src/beginner/P1043_Triangle.java) |
+| [1044 - Multiples](https://judge.beecrowd.com/en/problems/view/1044) | ✔ Solved | [Java](../src/beginner/P1044_Multiples.java)
