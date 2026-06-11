@@ -43,4 +43,4 @@ Each solution follows a consistent naming pattern:
 
 ## Objective
 
-Practice Java programming through the 122 beginner exercises from the Beecrowd platform.
+Practice Java programming through Beecrowd platform exercises, focusing on syntax and the fundamentals of the language Java.
