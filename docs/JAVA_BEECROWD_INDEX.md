@@ -34,3 +34,4 @@
 | [1040 - Average 3](https://judge.beecrowd.com/en/problems/view/1040) | ✔ Solved | [Java](../src/beginner/P1040_AverageIII.java) |
 | [1041 - Coordinates of a Point](https://judge.beecrowd.com/en/problems/view/1041) | ✔ Solved | [Java](../src/beginner/P1041_CoordinatesPoint.java) |
 | [1042 - Simple Sort](https://judge.beecrowd.com/en/problems/view/1042) | ✔ Solved | [Java](../src/beginner/P1042_SimpleSort.java) |
+| [1043 - Triangle](https://judge.beecrowd.com/en/problems/view/1043) | ✔ Solved | [Java](../src/beginner/P1043_Triangle.java) |
