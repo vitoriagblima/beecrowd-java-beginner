@@ -37,3 +37,4 @@
 | [1043 - Triangle](https://judge.beecrowd.com/en/problems/view/1043) | ✔ Solved | [Java](../src/beginner/P1043_Triangle.java) |
 | [1044 - Multiples](https://judge.beecrowd.com/en/problems/view/1044) | ✔ Solved | [Java](../src/beginner/P1044_Multiples.java) |
 | [1045 - Triangle Types](https://judge.beecrowd.com/en/problems/view/1045) | ✔ Solved | [Java](../src/beginner/P1045_TriangleTypes.java) |
+| [1046 - Game Time](https://judge.beecrowd.com/en/problems/view/1046) | ✔ Solved | [Java](../src/beginner/P1046_GameTime.java) |
