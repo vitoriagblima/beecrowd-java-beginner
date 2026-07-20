@@ -1,46 +1,46 @@
-# Beecrowd Beginner Exercises - Java
+# Exercícios Beecrowd Iniciante - Java
 
 ![Progress](https://img.shields.io/badge/Progress-learning-blue)
 ![Status](https://img.shields.io/badge/Status-active-success)
 ![Beecrowd](https://img.shields.io/badge/Platform-beecrowd-orange)
 ![Java](https://img.shields.io/badge/Java-5%2B-red)
 
-Repository containing Java solutions for the Beecrowd Beginner track.
+Repositório contendo soluções em Java para a trilha Iniciante do Beecrowd.
 
 ---
 
-## Resources
-- [Exercise Index](./docs/JAVA_BEECROWD_INDEX.md)
+## Recursos
+- [Índice de Exercícios](./docs/JAVA_BEECROWD_INDEX.md)
 
 ---
 
-## Tech Stack & Learning Approach
-- **Java Version:** Java 5 / 6 syntax.
-- **Focus:** These solutions are intentionally written using Java 5/6 to build strong fundamentals.
-- **Compatibility:** Codes run on modern Java versions (11, 17, 21+).
+## Tecnologias e Abordagem de Aprendizado
+- **Versão do Java:** Sintaxe do Java 5 / 6.
+- **Foco:** Estas soluções foram escritas intencionalmente utilizando Java 5/6 para a construção de fundamentos sólidos.
+- **Compatibilidade:** Os códigos rodam perfeitamente em versões modernas do Java (11, 17, 21+).
 
 ---
 
-## Project Structure & Naming Convention
+## Estrutura do Projeto e Convenção de Nomenclatura
 
-Each solution follows a consistent naming pattern:
+Cada solução segue um padrão consistente de nomenclatura:
 
-- **File name:** `P<problem_id>_<ProblemName>.java`  
-  Example: `P1002_AreaOfCircle.java`
+- **Nome do arquivo:** `P<id_do_problema>_<NomeDoProblema>.java`  
+  Exemplo: `P1002_AreaOfCircle.java`
 
-- **Local class name:** `P<problem_id>_<ProblemName>`  
-  Example: `P1002_AreaOfCircle`
+- **Nome da classe local:** `P<id_do_problema>_<NomeDoProblema>`  
+  Exemplo: `P1002_AreaOfCircle`
 
-> ⚠️ **Important for Beecrowd submission:**
+> ⚠️ **Importante para submissão no Beecrowd:**
 >
-> Before submitting, remove any `package` declaration and rename the class to:
+> Antes de submeter o código, remova qualquer declaração de `package` e renomeie a classe para:
 > ```java
 > public class Main
 > ```
-> Otherwise, Beecrowd will return a **Compilation Error**.
+> Caso contrário, o Beecrowd retornará **Compilation Error** (Erro de Compilação).
 
 ---
 
-## Objective
+## Objetivo
 
-Practice Java programming through Beecrowd platform exercises, focusing on syntax and the fundamentals of the language Java.
+Praticar programação em Java através dos exercícios da plataforma Beecrowd, focando na sintaxe e nos fundamentos da linguagem.
