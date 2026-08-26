@@ -40,3 +40,4 @@
 | [1046 - Game Time](https://judge.beecrowd.com/en/problems/view/1046) | ✔ Solved | [Java](../src/beginner/P1046_GameTime.java) |
 | [1047 - Game Time with Minutes](https://judge.beecrowd.com/en/problems/view/1047) | ✔ Solved | [Java](../src/beginner/P1047_GameTimeWithMinutes.java) |
 | [1048 - Salary Increase](https://judge.beecrowd.com/en/problems/view/1048) | ✔ Solved | [Java](../src/beginner/P1048_SalaryIncrease.java) |
+| [1049 - Animal](https://judge.beecrowd.com/en/problems/view/1049) | ✔ Solved | [Java](../src/beginner/P1049_Animal.java) |
